@@ -1,0 +1,6 @@
+6 is a perfect number.
+28 is a perfect number.
+120 isn't a perfect number.
+496 is a perfect number.
+2016 isn't a perfect number.
+2305843008139952128 is a perfect number.
